@@ -56,14 +56,28 @@ public:: true
 	- Co jest żelaznym rdzeniem gry?
 		- Nie chodzi tutaj o kompletne podstawy np. rzuć kością k20 i dodaj swój bonus ze zdolności, jak wyrzucisz powyżej 15 to rzut okazał się być sukcesem.
 		- To mogą być kluczowe koncepty gry. To bardzo często są elementy, którymi ktoś zachęca nas do kupienia albo zagrania w dany tytuł.
-			- gramy wampirami
-			- świat to latające wyspy unoszące się w powietrzu
-			- jesteśmy grupą morderców eksplorujących podziemia, aby zdobyć ich skarby i zyskiwać potęgę.
+			- Wampir Maskarada (Moja twórcza interpretacja)
+				- Gracze:
+					- Gracze wcielają się w wampirów, istoty nocy które potrzebują krwi do życia.
+					- Postacie gracze muszą być dla siebie sojusznikami, ale niekoniecznie przyjaciółmi
+					- Twórz śmiałe plany i próbuj je realizować
+					- Szanuj stare wampiry aż poznasz ich słaby punkt
+				- Mistrz Gry
+					- Spraw, aby Świat Nocy był prawdziwy
+					- Spraw, aby życie postaci graczy nie było nudne
+					- Graj, aby dowiedzieć się, co się wydarzy
+					- Bądź fanem postaci graczy
+					- Nadawaj imiona, zrób z nich prawdziwych ludzi a nie potwory
+					- Pytaj, prowokuj i buduj na odpowiedziach.
 	- Co jest ważne dla gry, ale jeżeli to zignorujemy to nadal będziemy doświadczenie podobne do innych osób, które grają w tą samą grę?
 		- Czy musze mieć kartę postaci?
-		- Czy muszę rzucać kostką na trafienie przeciwnika?
+		- Istnienie różnych wampirzych klanów
+		- Organizacje Camarilla, Sabat, Anarchiści
+		- Rzut kością
 	- Co w końcu jest tylko dodatkiem, podkreślającym ciekawe aspekty gry, przyozdobieniem smacznego dnia, które i bez niego będzie pyszne?
-		- Zasada czaru Uśpienie.
+		- Szczegółowe zasady dyscypliny Animalizm
+		- Szczegółowe zasady co może podnieść wampir z wysoką siłą
+		- Typowe działania
 - Gdyby porównać grę do samochodu, chciałbym wiedzieć :
 	- Co jest kompletnym minimum, aby auto mogło jechać po drodze?
 	- Co jest wyposażeniem podstawowym?
