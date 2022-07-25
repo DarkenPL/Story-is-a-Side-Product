@@ -1,0 +1,77 @@
+public:: true
+
+- O tym, dlaczego nienawidziłem zasady "Mistrz Gry ma zawsze rację" aż do momentu, gdy zrozumiałem czym naprawdę jest.
+- W wielu grach RPG istnieje specjalna zasada, która poprzedza wszystkie inne i występuje pod nazwami takimi jak Złota Zasada, Uniwersalna Zasada, Zasada Zero. Oto kilka przykładów:
+  collapsed:: true
+	- Warhammer 4 edycja, str 149:
+		- Jeśli jakakolwiek zasada negatywnie wpływa na to, jak się bawicie, zmieńcie ją lub zignorujcie.
+	- Wampir Maskarada 5 Edycja, str 131:
+		- Jest to najważniejsza zasada ze, wszystkich i jedyna, której warto się trzymać – nie ma żadnych zasad. Można z tej gry zrobić to, co się komu żywnie podoba, czy to kronikę o interakcjach społecznych niemalże pozbawioną rzutów kośćmi, czy też długą kampanię taktyczną, gdzie każdy gracz kontroluje małą koterię wampirów. Jeśli zasady przedstawione w niniejszej książce jakoś przeszkadzają wam w zabawie, powinniście je zmienić.
+		- Świat jest duży, a żaden zestaw sztywnych reguł nie może go dokładnie opisać. Można myśleć o tej książce jako o zbiorze nieobowiązkowych sugestii, które pozwalają przedstawić Świat Mroku w formie gry. To ty jednak decydujesz, co działa w niej najlepiej. I możesz zmieniać lub pomijać zasady, jeśli tylko uznasz to za stosowne.
+	- Fate Core System Edycja Polska, str 185:
+		- Złota Zasada: Najpierw zdecyduj, co chcesz osiągnąć, a potem poszukaj reguł, które pomogą ci zrobić.
+		  Srebra Zasada: Nigdy nie pozwól regułom wchodzić w drogę temu, co ma sens dla opowieści.
+	- Dungeon and Dragons Edycja 3.5 Podręcznik Mistrza Podziemi, str 18:
+		- Jesteś ostateczną wyrocznią i twoje słowa zawsze są słuszne. Wobec tego masz prawo zmienić tok wydarzeń tak, by gracze byli szczęśliwi lub by wszystko przebiegało gładko. Śmierć długo cyzelowanej postaci w wyniku potrącenia przez wóz wcale nie jest zabawna. Dobra niepisana zasada mówi, że bohater nie powinien umierać w trywialny sposób, z powodu pechowego rzutu kostką, chyba że robił akurat coś naprawdę głupiego.
+	- Equestria: Puść wodze fantazji, str. 98:
+		- "Najważniejsza zasada gier fabularnych to dobra zabawa. Celem grupy jest wyciągnięcie z gry jak najwięcej frajdy!
+		  Dotyczy to wszystkich graczy, łącznie z tobą. Jeśli nie bawicie się za dobrze, zastanów się dlaczego i zmień to. Czasem nawet będzie trzeba zmienić albo zignorować jakieś zasady podręcznika — NIE WAHAJ SIĘ! Może to zabrzmi dziwnie, bo przecież 90% tej książki to właśnie reguły, ale naprawdę mówimy poważnie. Jeśli jakaś reguła przeszkadza w zabawie, to trzeba ją pominąć, zmienić albo wymyślić inną, zupełnie nową. Naprawdę nie mamy nic przeciwko — każda grupa jest inna i każda zasługuje na fantastyczną zabawę."
+	- Dungeon and Dragons Edycja 5, str 235:
+		- "Przed rozpoczęciem gry warto ustalić, czy jest dopuszczalne dyskutowanie o zasadach podczas sesji. Niektóre grupy nie mają nic przeciwko temu, by wstrzymać grę do czasu, aż osiągną porozumienie w sprawie różnej interpretacji reguł. Inne, nie chcą wstrzymać akcji, zdają się na decyzję MP. jeśli różne rozumienie reguł nie przeszkadza wam w kontynuowaniu przygody, możesz zrobić notkę (warto przydzielić to zadanie któremuś z graczy) i później wrócić do tego zagadnienia."
+	- Old-School Essentials: Referee's Tome:
+		- "Rulings: The rules of the game—including descriptions of magic items, spells, or monsters’ special abilities—do not cover all possible scenarios, so the referee must be ready to apply judgement to resolve any unexpected situations which arise."
+	- Old-School Essentials: Advanced Fantasy Player's Tome:
+		- "House Rules
+		- None of the rules presented in this book (or other Old-School Essentials books) are to be taken as “gospel”. If the players and referee wish, any rule may be expanded, altered, or removed. Such tweaks to the rules are known as house rules—many groups end up with their own unique way of playing, tailored to their particular tastes.
+		- That said, the rules have been carefully designed and very thoroughly battle tested. Many groups will be perfectly happy with the rules as written.
+		- Beginning players: Are advised to play with the rules as written for some time, before starting to change anything."
+	- Warhammer 40,000 Roleplay: Wrath & Glory, str. 157
+		- "Zasady istnieją po to, byście mogli cieszyć się epickimi opowieściami w ponurym mroku 41. tysiąclecia. Nigdy nie powinny stanowić przeszkody w zabawie.
+		- Jeśli jakaś zasada wam w tym przeszkadza – zmieńcie ją lub zignorujcie.
+		- Ta reguła jest tak ważna, że w całym podręczniku znajdziecie zasady opcjonalne, które pomogą wam dopasować ich zestaw tak, aby grało się wam jak najlepiej. Jeśli gracie po raz pierwszy, możecie część z nich zignorować – do czasu, aż bardziej zaznajomicie się z tym, jak działa gra – a potem eksperymentujcie do woli.
+		- Uważajcie, by nie pomylić „zabawy” z „ciągłym odnoszeniem sukcesu” – ryzyko i możliwość porażki jest kluczowe dla dramatyzmu. Kiedy coś pójdzie nie tak, zawsze możesz wykaraskać się z problemów będących rdzeniem podróży każdego bohatera."
+		- 7th Sea: Przewodnik Mistrza Gry" str. 10:
+			- Zasady MG
+			- Jak wszystkie pozostałe materiały do "7th Sea", tak i zawartość tej książki ma charakter zbioru wskazówek. Możesz je ignorować. Jeśli coś ci się nie podoba, wyrzuć to. Chcesz, by ktoś inny rządził Avalonem? Wywal z gry Elaine i posadź na tronie monarchę własnego pomysłu. To nic trudnego.
+			- Oczywiście, biura AEG opuszczać będą materiały dotyczące "oficjalnej" Thei, kiedy jednak prowadzisz, to ty masz zawsze rację. Ty tu jesteś szefem. Nigdy o tym nie zapominaj.
+		- Warhammer 2 edycja, str. 9:
+			- Decyzja, które zasady maja zastosowanie, a które nie, należy tylko do MG. Mistrz Gry jest ostatecznym arbitrem zasad i może zmodyfikować, poprawić, a nawet zignorować pewne zasady, by lepiej dostosować je do stylu gry Twojej grupy. Podporządkowuj się decyzjom swojego Mistrza Gry - w końcu to on wykonuje ciężką prace, by zapewnić rozrywkę Tobie i pozostałym graczom!
+		- Cyberpunk Red, str. 23:
+			- Jak prowadzić grę jako MG?
+			- Najlepiej po prostu spróbować. Na marginesach tego podręcznika umieściliśmy wiele przykładów wykorzystania zasad gry w trakcie zabawy. Jednak najważniejsze jest odpowiednie przedstawienie opowieści. Spróbuj barwnie opisywać świat, który widzą Postacie Graczy, i twórz problemy oraz sytuacje, z którymi muszą sobie poradzić. Rzucaj wyzwania, ale nie miażdż bohaterów. Druga najważniejsza zasada tej gry zakłada bezstronność MG w czasie rozpatrywania zasad i efektów gry. Pamiętaj: jeśli nie prowadzisz ciekawie i nie grasz fair, nikt nie będzie chciał grać głównej roli w twoim „filmie”. Powodzenia!.
+- Powodem, dlaczego nie lubiłem złotych zasad które pozwalają na złamanie każdej zasady, jest poniższy diagram.
+	- Złota zasada
+	- Pozostałe (Opcjonalne)
+- Emergency Rule - Jeżeli wszystko zawodzi, albo coś zawodzi, odwołaj się do awaryjnej zasady aby gra nadal mogła iść do przodu.
+	- I strive for pragmatism in design theory. Being pragmatic means asking yourself, “How do we get what we want from this?” And I think my games might work better for me, and maybe for you, by presenting play culture and fiction as kinds of rules too, and stressing that some rules are more okay to break than others.
+- Czym jest złota zasada najlepiej przedstawia Warhammer Edycja 4 "Jeśli jakakolwiek zasada negatywnie wpływa na to, jak się bawicie, zmieńcie ją lub zignorujcie."
+	- Jest bardzo inkluzywna, nie wskazuje że tym kto ma zmieniać zasady jest tylko MG. Domyślnie grupa może robić to wspólnie, może decydować o tym osoba której problem dotyczy albo grupa może scedować tą opcję na MG.
+	- Stawia zabawę a więc dobre samopoczucie grupy na najwyższym miejscu.
+	- Zasady które przeszkadzają dobrej zabawie, mogą zostać zmienione lub zignorowane.
+- Ta zapis to raczej wentyl bezpieczeństwa niż najważniejsza zasada bo inaczej prawdziwe stałoby się taki diagram:
+	- Najważniejsza zasada: Złota zasada
+	- Opcjonalne, pozostałe zasady
+- Nienawidziłem Złotej Zasady przez długi czas, a pisze to jako osoba, która głównie w życiu była Mistrzem Gry. Powodem tego, było zagubienie. Skoro wszystko jest nieważne, to po co w ogóle te zasady? Nie tylko źle na to patrzyłem, ale też uważam, że zdecydowana większość gier została źle zaprojektowana i nie chodzi tutaj o to, czy rzuca się w danym systemie k20 czy 2k6 czy jeszcze w ogóle się nie rzuca, tylko wszystko ustala się w rozmowie (tzw. narracyjnie).
+- Dzisiaj nie mam problemów z tą zasadą, ale chciałbym wiedzieć:
+	- Co jest żelaznym rdzeniem gry?
+		- Nie chodzi tutaj o kompletne podstawy np. rzuć kością k20 i dodaj swój bonus ze zdolności, jak wyrzucisz powyżej 15 to rzut okazał się być sukcesem.
+		- To mogą być kluczowe koncepty gry. To bardzo często są elementy, którymi ktoś zachęca nas do kupienia albo zagrania w dany tytuł.
+			- gramy wampirami
+			- świat to latające wyspy unoszące się w powietrzu
+			- jesteśmy grupą morderców eksplorujących podziemia, aby zdobyć ich skarby i zyskiwać potęgę.
+	- Co jest ważne dla gry, ale jeżeli to zignorujemy to nadal będziemy doświadczenie podobne do innych osób, które grają w tą samą grę?
+		- Czy musze mieć kartę postaci?
+		- Czy muszę rzucać kostką na trafienie przeciwnika?
+	- Co w końcu jest tylko dodatkiem, podkreślającym ciekawe aspekty gry, przyozdobieniem smacznego dnia, które i bez niego będzie pyszne?
+		- Zasada czaru Uśpienie.
+- Gdyby porównać grę do samochodu, chciałbym wiedzieć :
+	- Co jest kompletnym minimum, aby auto mogło jechać po drodze?
+	- Co jest wyposażeniem podstawowym?
+	- Co jest dodatkiem, jak klimatyzacja.
+- Inne porównanie jest to, jak stworzone są dobre strony internetowe.
+	- Co jest główną treścią strony
+	- Co jest ważnym dodatkiem, jak zdjęcia i video.
+	- A co jest bonusem, jak zapisywanie artykułu na później.
+- Najlepszą znaną mi grą, która zbudowana jest wokół konceptu warstw, od szczegółowych do najbardziej bazowych jest Apocalypse World, chociaż w samym tekście gry nie jest to nigdzie wprost napisane. Dopiero na swoim blogu, autor gry Vincet Baker wrzucił wyjaśnienie w jaki sposób zaprojektował swoją grę, aby móc lepiej robić gry na podstawie jego tytułu (tzw. powered by Apocalypse World).
+- Podsumowując, chciałbym wiedzieć co, z grubego na 350 podręcznika Warhammera Edycji 4, jest absolutnie kluczowe aby wejść w ponury świat niebezpiecznych przygód, co "tylko" ważne i mogę bezpiecznie zignorować na pierwszych sesjach, aby dobrze się bawić, ale jednak ciągle w tym systemie, a nie tylko zainspirowaniu się paroma ilustracjami.
+- Oczywiście, do wielu gier istnieją tzw. Quick starts, ale nadal próbują mi tam wmówić, że bardzo ważne dla klimatu gry jest użycie tych konkretnych kostek. Śmiem wątpić, że akurat k100 jest tym, co czyni Warhammera Warhammerem. :)
